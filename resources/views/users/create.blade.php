@@ -47,7 +47,7 @@
                         <strong>Gender:</strong>
                         <select name="gender" id="gender">
                             <option value="Female">Female</option>
-                            <option value="Men">Men</option>
+                            <option value="Male">Male</option>
                             <option value="Other">Others</option>
                             </select>
         

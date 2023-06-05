@@ -78,6 +78,6 @@ class UserController extends Controller
 
         // redirect
         return redirect('users')
-            ->with('success', 'User has been created successfully.');
+            ->with('success', 'User has been deleted successfully.');
     }
 }
